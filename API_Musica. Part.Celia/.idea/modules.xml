@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ApiMusica/ApiMusica.iml" filepath="$PROJECT_DIR$/ApiMusica/ApiMusica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/klsdfa.iml" filepath="$PROJECT_DIR$/.idea/klsdfa.iml" />
+    </modules>
+  </component>
+</project>
